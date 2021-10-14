@@ -4,6 +4,9 @@ issues by signing petitions for meaningful causes and by donating to verified no
 Contact: @textlexbot
 
 I have attached the code I used to create this chatbot, to help anyone wishing to create a textbot of their own.
+
+
+
 Sites I used:
 -PythonAnywhere
 -DialogFlow
